@@ -346,15 +346,6 @@ Evaluation concepts under consideration include statistical similarity, behavior
 
 <br/>
 
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdhamKhouly&bg_color=0d1117&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&area_color=4c1d95&hide_border=true" alt="Contribution activity graph" width="100%"/>
-
-</div>
-
-<br/>
 
 ## Contribution Snake
 
