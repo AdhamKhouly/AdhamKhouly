@@ -119,10 +119,6 @@ The engineering background is still the part I use most. It is what makes me ask
 <p>
 <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude"/>
 <img src="https://img.shields.io/badge/Generative%20AI-7c3aed?style=flat-square" alt="Generative AI"/>
-<img src="https://img.shields.io/badge/LLMs-7c3aed?style=flat-square" alt="LLMs"/>
-<img src="https://img.shields.io/badge/RAG-7c3aed?style=flat-square" alt="Retrieval-Augmented Generation"/>
-<img src="https://img.shields.io/badge/Embeddings-7c3aed?style=flat-square" alt="Embeddings"/>
-<img src="https://img.shields.io/badge/Vector%20Search-7c3aed?style=flat-square" alt="Vector Search"/>
 <img src="https://img.shields.io/badge/AI%20Agents-7c3aed?style=flat-square" alt="AI Agents"/>
 </p>
 
