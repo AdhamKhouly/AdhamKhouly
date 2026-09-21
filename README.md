@@ -335,8 +335,8 @@ Evaluation concepts under consideration include statistical similarity, behavior
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AdhamKhouly&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=c9d1d9&ring_color=7c3aed" alt="GitHub stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdhamKhouly&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" alt="Top languages" height="165"/>
+<img src="./profile/stats.svg" alt="GitHub stats" height="165"/>
+<img src="./profile/top-langs.svg" alt="Top languages" height="165"/>
 
 <br/>
 
