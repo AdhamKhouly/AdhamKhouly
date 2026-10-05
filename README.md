@@ -10,7 +10,7 @@
 
 <img src="https://img.shields.io/badge/Boston%20University-Questrom%20School%20of%20Business-4c1d95?style=flat-square" alt="Boston University"/>
 <img src="https://img.shields.io/badge/Boston%2C%20MA-4338ca?style=flat-square" alt="Boston, MA"/>
-<img src="https://komarev.com/ghpvc/?username=AdhamKhouly&style=flat-square&color=7c3aed&label=profile+views" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=AdhamKhouly&style=flat-square&color=7c3aed" alt="Profile views"/>
 <a href="https://github.com/AdhamKhouly?tab=followers"><img src="https://img.shields.io/github/followers/AdhamKhouly?style=flat-square&logo=github&color=5b21b6&labelColor=0d1117" alt="GitHub followers"/></a>
 
 <br/><br/>
